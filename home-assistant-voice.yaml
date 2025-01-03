@@ -1532,7 +1532,7 @@ micro_wake_word:
       id: hey_jarvis
     - model: hey_mycroft
       id: hey_mycroft
-    - model: custom/jeeves/jeeves.json
+    - model: https://raw.githubusercontent.com/louiscleon/assistants/dev/custom/jeeves/jeeves.json
       id: jeeves
     - model: https://github.com/kahrendt/microWakeWord/releases/download/stop/stop.json
       id: stop
